@@ -4,7 +4,7 @@
 
 #### 2. Open terminal and run `'npm install'`
 
-#### 3. In terminal run `'node index.js`
+#### 3. In terminal run `'node index.js'`
 
 #### 4. Input a URL
 
